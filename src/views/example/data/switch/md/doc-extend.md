@@ -1,0 +1,1 @@
+设置`active-value`和`inactive-value`属性，接受`Boolean`, `String`或`Number`类型的值。

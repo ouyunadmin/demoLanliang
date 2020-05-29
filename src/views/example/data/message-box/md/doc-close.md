@@ -1,0 +1,1 @@
+默认情况下，当用户触发取消（点击取消按钮）和触发关闭（点击关闭按钮或遮罩层、按下 `ESC` 键）时，`Promise` 的 `reject` 回调和`callback`回调的参数均为 'cancel'。如果将`distinguishCancelAndClose`属性设置为 `true`，则上述两种行为的参数分别为 'cancel' 和 'close'。

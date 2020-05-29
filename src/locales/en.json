@@ -1,0 +1,29 @@
+{
+	"_element": "en",
+	"_name": "English",
+	"page": {
+		"demo": {
+			"playground": {
+				"locales": {
+					"text": "Admin is a fully open source and free enterprise back-end product front-end integration solution, using the latest front-end technology stack, has prepared most of the project preparations, and with a lot of sample code to help the management system agile development."
+				}
+			}
+		}
+	},
+  "pub": {
+    "pageHeader": {
+      "demo": "Demo"
+    }
+  },
+  "subtitle": "Click the button above, you can switch between two sample pages to check language changes",
+  "hello": "hello",
+  "vue": "Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects. On the other hand, Vue is also perfectly capable of powering sophisticated Single-Page Applications when used in combination with modern tooling and supporting libraries.",
+  "check": {
+    "title": "Please choose",
+    "label": {
+      "Beijing": "Beijing",
+      "Tokyo": "Tokyo",
+      "NewYork": "NewYork"
+    }
+  }
+}

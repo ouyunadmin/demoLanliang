@@ -1,0 +1,1 @@
+添加`is-range`属性即可选择时间范围，同样支持`arrow-control`属性。

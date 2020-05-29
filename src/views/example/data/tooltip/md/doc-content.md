@@ -1,0 +1,1 @@
+用具名 `slot` 分发`content`，替代`tooltip`中的`content`属性。

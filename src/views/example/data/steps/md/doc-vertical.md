@@ -1,0 +1,1 @@
+只需要在`el-steps`元素中设置`direction`属性为`vertical`即可。

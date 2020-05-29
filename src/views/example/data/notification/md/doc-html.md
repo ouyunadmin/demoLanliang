@@ -1,0 +1,1 @@
+将`dangerouslyUseHTMLString`属性设置为 `true`，`message` 就会被当作 `HTML` 片段处理。

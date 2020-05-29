@@ -1,0 +1,73 @@
+
+
+select下拉选择
+body参数
+[
+ {value:1, label:'选项一'}，
+ {value:1, label:'选项二'}
+]
+
+----------------------------------------
+
+checkbox多选
+body 参数
+[
+ {value:1, label:'选项一'}，
+ {value:1, label:'选项二'}
+]
+
+----------------------------------------
+
+图片上传
+request 请求
+[
+ {name:'0.jpg', url:'/format/webp/quality/100/0.jpg'}，
+ {name:'1.jpg', url:'/format/webp/quality/100/1.jpg'}
+]
+
+----------------------------------------
+
+树形数据
+body 参数
+[
+ {id:0 ,label:'3', children: [
+  {id:01 ,label:'33', children: [
+   {id:011 ,label:'333'},
+   {id:012 ,label:'3333'}
+  ]}
+ ]},
+ {id:2 ,label:'5', children: [
+  {id:02 ,label:'55'}
+ ]}
+]
+
+----------------------------------------
+
+分页 数据格式
+
+request 请求
+page  当前页
+limit 每页显示条目个数
+
+body 参数
+total 总条目数
+list  列表，如果列表空，返回格式list: []
+{
+ total: 1,
+ list: []
+}
+
+----------------------------------------
+
+接口使用restful风格，request请求为json对象
+GET    一般请求
+POST   新增
+PUT    更新
+DELETE 删除
+
+----------------------------------------
+
+其他
+日期时间类型字段入参/回调统一用时间戳
+
+

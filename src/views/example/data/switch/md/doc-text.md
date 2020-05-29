@@ -1,0 +1,1 @@
+使用`active-text`属性与`inactive-text`属性来设置开关的文字描述。

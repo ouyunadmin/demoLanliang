@@ -1,0 +1,2 @@
+1. 在 `Form` 组件中，每一个表单域由一个 `Form-Item` 组件构成，表单域中可以放置各种类型的表单控件，包括 `Input`、`Select`、`Checkbox`、`Radio`、`Switch`、`DatePicker`、`TimePicker`
+2. `Form` 组件提供了表单验证的功能，只需要通过 `rules` 属性传入约定的验证规则，并将 `Form-Item` 的 `prop` 属性设置为需校验的字段名即可。

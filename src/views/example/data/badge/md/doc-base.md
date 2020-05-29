@@ -1,0 +1,1 @@
+定义`value`属性，它接受`Number`或者`String`。

@@ -1,0 +1,1 @@
+设置`disabled`属性，接受一个`Boolean`，设置`true`即可禁用。

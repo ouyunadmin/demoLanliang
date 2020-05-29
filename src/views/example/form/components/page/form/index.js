@@ -1,0 +1,5 @@
+export { default as BaseInfo } from './BaseInfo'
+export { default as ConsignGoodsInfo } from './ConsignGoodsInfo'
+export { default as DeliveryInfo } from './DeliveryInfo'
+export { default as FeeNoteInfo } from './FeeNoteInfo'
+export { default as EditorInfo } from './EditorInfo'

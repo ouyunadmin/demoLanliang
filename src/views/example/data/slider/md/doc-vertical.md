@@ -1,0 +1,1 @@
+设置`vertical`可使 `Slider` 变成竖向模式，此时必须设置高度`height`属性。
