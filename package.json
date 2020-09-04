@@ -47,7 +47,7 @@
     "nprogress": "^0.2.0",
     "qs": "^6.7.0",
     "screenfull": "5.0.0",
-    "showdown": "1.8.6",
+    "showdown": "1.9.1",
     "simplemde": "1.11.2",
     "sortablejs": "1.8.4",
     "ua-parser-js": "^0.7.20",
