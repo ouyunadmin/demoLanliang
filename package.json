@@ -50,7 +50,7 @@
     "showdown": "1.8.6",
     "simplemde": "1.11.2",
     "sortablejs": "1.8.4",
-    "ua-parser-js": "^0.7.20",
+    "ua-parser-js": "^0.7.24",
     "v-org-tree": "1.0.12",
     "vue": "^2.6.10",
     "vue-bus": "1.2.1",
