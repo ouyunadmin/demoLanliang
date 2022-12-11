@@ -45,7 +45,7 @@
     "mockjs": "1.0.1-beta3",
     "normalize.css": "7.0.0",
     "nprogress": "^0.2.0",
-    "qs": "^6.7.0",
+    "qs": "^6.9.7",
     "screenfull": "5.0.0",
     "showdown": "1.8.6",
     "simplemde": "1.11.2",
